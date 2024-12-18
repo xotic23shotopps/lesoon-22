@@ -1,0 +1,18 @@
+/* @media(min-width:600px){
+    body{
+        background-color: blue;
+        color:white;
+    }
+} */
+@media all (max-width:600px){
+    body{
+        background-color: blue;
+        color:white;
+    } 
+}
+@media all and (orientation:landscape){
+    body{
+        background-color: blue;
+        color:white;
+    }   
+}
